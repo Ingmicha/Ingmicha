@@ -67,8 +67,11 @@ My current professional focus is on:
 ---
 
 ## GitHub stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ingmicha&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ingmicha&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ingmicha&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ingmicha&layout=compact&theme=transparent)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ingmicha&theme=transparent)
 
 ---
 
