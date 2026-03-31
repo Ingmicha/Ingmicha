@@ -32,7 +32,7 @@ My current professional focus is on:
 - Jetpack Compose UI development
 - Mobile architecture and maintainable codebases
 - SDK integration / SDK-centric development
-- Mobile security foundations (static & dynamic analysis awareness)
+- Mobile security foundations
 - Payment and tokenization-oriented mobile flows
 - Wallet/contactless ecosystem understanding
 - Production support and issue troubleshooting
@@ -41,37 +41,26 @@ My current professional focus is on:
 
 ## Experience highlights
 - Built and maintained Android solutions across Java and Kotlin codebases.
-- Worked with modern Android patterns: MVVM, Compose-first implementations, and architecture-focused projects.
-- Hands-on work with mobile development practices related to reliability, delivery, and QA mindset.
-- Continuous learning and implementation across advanced Android topics (architecture, coroutines, dependency injection, reverse engineering).
-
-> Note: This profile prioritizes verified public information from current GitHub repositories plus provided CV/LinkedIn context. Where public evidence is limited, wording is intentionally neutral.
+- Worked with modern Android patterns such as MVVM, Compose-first implementations, and architecture-focused projects.
+- Hands-on experience with mobile reliability, delivery, and QA-oriented practices.
+- Continuous learning across advanced Android topics including architecture, coroutines, dependency injection, and reverse engineering.
 
 ---
 
 ## Featured projects / selected work
-> Some repositories are study/lab style; this section highlights technical direction and stack alignment.
+Some repositories are study/lab style; this section highlights technical direction and stack alignment.
 
-- [udemy-hilt-dependency-injection-android-Kotlin](https://github.com/Ingmicha/udemy-hilt-dependency-injection-android-Kotlin) — Kotlin, Hilt-based Android practice project.
+- [udemy-hilt-dependency-injection-android-Kotlin](https://github.com/Ingmicha/udemy-hilt-dependency-injection-android-Kotlin) — Kotlin and Hilt-based Android practice project.
 - [udemy-clean-architecture-solid-principles-android-kotlin](https://github.com/Ingmicha/udemy-clean-architecture-solid-principles-android-kotlin) — Android architecture and SOLID-focused practice.
-- [udemy-mvi-architecture-jetpack-compose](https://github.com/Ingmicha/udemy-mvi-architecture-jetpack-compose) — Compose + MVI experimentation.
+- [udemy-mvi-architecture-jetpack-compose](https://github.com/Ingmicha/udemy-mvi-architecture-jetpack-compose) — Compose and MVI experimentation.
 - [android-mvvm-clean](https://github.com/Ingmicha/android-mvvm-clean) — MVVM/Clean-oriented Android structure.
-- [Kotlin-Coroutines-development-course-2023](https://github.com/Ingmicha/Kotlin-Coroutines-development-course-2023) — Coroutines, MVVM, Retrofit, Room practice.
+- [Kotlin-Coroutines-development-course-2023](https://github.com/Ingmicha/Kotlin-Coroutines-development-course-2023) — Coroutines, MVVM, Retrofit, and Room practice.
 - [Android-Reverse-Engineering-From_Scratch](https://github.com/Ingmicha/Android-Reverse-Engineering-From_Scratch) — Reverse engineering learning repository.
 
-### Suggested additions (placeholders to strengthen public profile)
-- **[PLACEHOLDER] Android SDK sample project** — publish a small reusable SDK/module with integration docs.
-- **[PLACEHOLDER] Mobile security demo app** — include static/dynamic analysis checklist and hardening examples.
-- **[PLACEHOLDER] Wallet/payment flow demo** — tokenization-ready flow simulation with architecture notes.
-
----
-
-## GitHub stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ingmicha&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ingmicha&layout=compact&theme=transparent)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Ingmicha&theme=transparent)
+### Suggested next public repos
+- **Android SDK sample project** — a reusable SDK/module with integration docs
+- **Mobile security demo app** — hardening examples and analysis checklist
+- **Wallet/payment flow demo** — tokenization-ready flow simulation with architecture notes
 
 ---
 
