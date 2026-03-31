@@ -66,5 +66,3 @@ Some repositories are study/lab style; this section highlights technical directi
 
 ## Contact
 - LinkedIn: [linkedin.com/in/ingmicha](https://www.linkedin.com/in/ingmicha/)
-- Email: [ingmicha@gmail.com](mailto:ingmicha@gmail.com)
-- GitHub: [github.com/Ingmicha](https://github.com/Ingmicha)
